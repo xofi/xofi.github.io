@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Tags"
-description: "这里面呢，有各种的甜点呢"  
+description: "这里面呢，有各种的甜点"  
 header-img: "img/semantic.jpg"  
 ---
 
-##本页实用方法
+##本页食用方法
 
 1. 在下面选一个你喜欢的甜点
 2. 点它

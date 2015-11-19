@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "milestone"
+title: "Milestone"
 description: "人生的路呢，就这么一块石头一块石头垫起来的 "
 header-img: "img/zhihu.jpg"
 ---
