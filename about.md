@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "认为自己平凡，说明还能进步 "
 header-img: "img/green.jpg"
 ---
 
@@ -10,9 +10,10 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是肖飞，北邮在读博士，预计2018年春毕业。
 
-现在研习 **认知写作学** 。
+最近在做城域网中的 **FEC算法研究** ，编程工具是 <code>MatLab 2013b</code>  之类的。。
+
 
 ###坚信
 
@@ -26,42 +27,31 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
+- **单机游戏** 红警、刀剑封魔录、文明、热血三国
+- **模拟游戏** 马里奥赛车
+- **主机游戏** 怪物猎人，灵魂献祭，pso
+- **网络游戏** [剑侠情缘叁](http://jx3.xoyo.com)
 
 
 
 ###代表作：
 
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
+- [《Degree Distribution Mapping Method of Parity Check Matrix in LDPC Based FSO Communication through Atmospheric Turbulence Channel》](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6987132)
 
 
 ###我的朋友们
 
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
+- [对不起，我没有朋友](http://www.zhihu.com/question/22456271)
 
 ###联系
 
-- [博客：www.cnfeat.com](www.cnfeat.com)
+- [微博@xofi](http://weibo.com/xofi)
 
-- [微博@CnFeat](http://weibo.com/207775270)
+- [知乎@陈素封](http://www.zhihu.com/people/fei-xiao-82)
 
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
+- [豆瓣@xofi](http://www.douban.com/people/xofi/)
 
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- 微信：肖飞
 
 
 <center>
