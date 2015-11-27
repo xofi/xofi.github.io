@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img "img/xofi.jpg" align="center"></p>
+    <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMN9iFf0yp2I9qMVyh494pBDHE33ih29PKfmCgxwFg9NT5ONW" align="center"></p>
 </center>
 
 
