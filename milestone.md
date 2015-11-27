@@ -7,7 +7,7 @@ header-img: "img/zhihu.jpg"
 
 
 <center>
-    <p><img src="img/xofi.jpg" align="center"></p>
+    <p><img "img/xofi.jpg" align="center"></p>
 </center>
 
 
