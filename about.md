@@ -49,11 +49,10 @@ header-img: "img/green.jpg"
 
 - [微博@xofi](http://weibo.com/xofi)
 
-- [知乎@FEI XIAO(http://www.zhihu.com/people/fei-xiao-82)
+- [知乎@FEI XIAO](http://www.zhihu.com/people/fei-xiao-82)
 
 - [豆瓣@xofi](http://www.douban.com/people/xofi/)
 
-- 微信：肖飞
 
 
 <center>
