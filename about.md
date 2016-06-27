@@ -37,7 +37,7 @@ header-img: "img/green.jpg"
 - [《一种RS-LDPC二维乘积码的H矩阵构造方法及其滑动截断译码方法》](http://www.soopat.com/Patent/201510278426)
 - [《 基于LDPC的Turbo结构码混合级联编译码方法》](http://www.soopat.com/Patent/201510633385)
 - [《 一种空间光通信LDPC码映射奇偶校验矩阵度分布方法》](http://www.soopat.com/Patent/201510633417)
-
+- [《一种速率自适应多层编译码算法》](http://www.patentsino.com)
 
 ###我的朋友们
 
